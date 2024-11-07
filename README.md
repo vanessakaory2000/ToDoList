@@ -13,7 +13,7 @@
 - HTML
 - CSS
 - PHP
-- [Bootstrap] (https://getbootstrap.com/)
+- Bootstrap 5 (https://getbootstrap.com/)
 - XAMPP
 
 ## Outras Informações
