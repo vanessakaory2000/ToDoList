@@ -10,6 +10,9 @@
 - Colunas: Id, Nome, Descrição, Status (Não concluído, Em andamento e Concluído) e Data Limite
 
 ## Ferramentas Utilizadas
+- HTML
+- CSS
+- PHP
 - [Bootstrap] (https://getbootstrap.com/)
 - XAMPP
 
